@@ -1,0 +1,17 @@
+{
+    "name": "visa/composer_project_1",
+    "authors": [
+        {
+            "name": "Vishalatchi",
+            "email": "vishalatchi@codem.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
